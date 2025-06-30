@@ -6,9 +6,9 @@
 }
 
 :root {
-    --primary-color: #8b5cf6;
-    --primary-dark: #7c3aed;
-    --secondary-color: #a78bfa;
+    --primary-color: #dc2626; /* red-600 */
+    --primary-dark: #b91c1c; /* red-700 */
+    --secondary-color: #f87171; /* red-400 */
     --accent-color: #f59e0b;
     --text-primary: #1e293b;
     --text-secondary: #64748b;
